@@ -54,39 +54,15 @@ If you use this software, please cite the following work :
   [hal-04120709v3](https://hal.science/hal-04120709v3).
 
 For any questions, Please contact Jean Steve Tamo Tchomgui at
-<jeanstevetamo@yahoo.fr> or Guillaume Fraysse at
-<guillaume.fraysse@orange.com>.
+<jeanstevetamo at yahoo dot fr> or Guillaume Fraysse at
+<guillaume dot fraysse at orange dot com>.
 
 ## License
 
-Copyright (c) 2015 — 2016 Orange
+Copyright (c) 2021 — 2025 Orange
 
-This code is released under the XYZ license. See the `LICENSE` file for
+This code is released under the GPL2 license. See the `LICENSE.md` file for
 more information.
-
-*{——— 📌 Alternatively, if the license text is short, it might be fully
-embedded, as with the example below:}*
-
-This code is released under the MIT license
-
-Permission is hereby granted, free of charge, to any person obtaining a
-copy of this software and associated documentation files (the
-“Software”), to deal in the Software without restriction, including
-without limitation the rights to use, copy, modify, merge, publish,
-distribute, sublicense, and/or sell copies of the Software, and to
-permit persons to whom the Software is furnished to do so, subject to
-the following conditions:
-
-The above copyright notice and this permission notice shall be included
-in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS
-OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
-CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
-TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
-SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## Contact
 
